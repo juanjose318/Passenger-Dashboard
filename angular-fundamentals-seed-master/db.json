@@ -1,0 +1,39 @@
+{
+  "Passengers": [
+    {
+      "fullname": "Juan José Muñoz",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 15031995
+    },
+    {
+      "fullname": "Steven",
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "hold-only",
+      "checkInDate": 1586596012833
+    },
+    {
+      "id": 3,
+      "fullname": "Carolina",
+      "checkedIn": true,
+      "checkedInDate": 25031968,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Max",
+      "checkedIn": false,
+      "checkedInDate": 25031968,
+      "baggage": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Jesus",
+      "checkedIn": false,
+      "checkedInDate": 15121995,
+      "baggage": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.nav {
+  margin: 0 0 10px;
+  padding: 0 0 20px;
+  border-bottom:1px soid rgb(255, 194, 194);
+  a {
+    background: purple;
+    color: white;
+    padding: 4px 10px;
+    margin : 0 2px;
+    border-radius: 2px;
+    &.active {
+      color:white;
+      background: green;
+    }
+  }
+}
+
+
