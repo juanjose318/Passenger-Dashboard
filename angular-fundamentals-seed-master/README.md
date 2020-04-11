@@ -1,4 +1,4 @@
-##### Start Project
+# Start Project
 
 ```bash
 yarn install
@@ -8,11 +8,11 @@ yarn install
 npm install
 ```
 
-# Then
+## Then
 
 yarn start
 
-# OR
+## OR
 
 npm start
 ```
